@@ -85,8 +85,8 @@ Arch based
 
 ## Security
 
-This software does not connect to the internet in any way, so potential attacks from the internet are to exclude 
-(except for malware/viruses compromizing your machine at the moment of usage).
+This software does not connect to the internet in any way, so potential attacks from the internet are to be excluded 
+(except for pre-existing malware/viruses compromizing your machine at the moment of usage).
 
 The encryption/decryption process it's done via openssl with the login password,
 it utilizes AES-256 (Advanced Encryption Standard) which is a specification for the encryption 
