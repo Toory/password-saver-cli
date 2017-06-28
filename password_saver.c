@@ -388,9 +388,9 @@ int main(void){
 		printf("-------------------------------------\n");
 		printf("-------ENCRYPTED PASSWORD SAVER------\n");
 		printf("-------------------------------------\n");
-		printf("1. Login into old session.-----------\n");
-		printf("2. Create new session.---------------\n");
-		printf("3. Delete a session.-----------------\n");
+		printf("1. Log in.---------------------------\n");
+		printf("2. Sign Up.--------------------------\n");
+		printf("3. Delete an account.----------------\n");
 		printf("4. Exit------------------------------\n");
 		printf("~ ");
 		flag = scanf("%100d", &num);
