@@ -16,7 +16,7 @@ Arch based
 
 ## Installation
       git clone 'https://github.com/Toory/password-saver-cli'
-      cd ~/password-saver-cli
+      cd password-saver-cli
    	  make
       ./password-saver
 	  
