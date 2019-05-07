@@ -1,5 +1,5 @@
 # password-saver-cli
-Command line utility to store credentials securely (AES-256 encryption)
+Command line utility to store credentials
 
 ## Dependencies
 
@@ -81,13 +81,3 @@ Arch based
 8 - Go back to the Main Menu
 
 9 - Exit.
-
-
-## Security
-
-This software does not connect to the internet in any way, so potential attacks from the internet are to be excluded 
-(except for pre-existing malware/viruses compromizing your machine at the moment of usage).
-
-The encryption/decryption process it's done via openssl with the login password,
-it utilizes AES-256 (Advanced Encryption Standard) which is a specification for the encryption 
-of electronic data established by the U.S. National Institute of Standards and Technology (NIST).
